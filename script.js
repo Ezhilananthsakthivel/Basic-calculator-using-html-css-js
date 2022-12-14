@@ -1,4 +1,4 @@
-// //first method it's have some errors------>
+// //first method ------>
 // var ans = ''
 // var exp = /[^+-/%*]/g
 
@@ -22,21 +22,6 @@
 //             input = ''
 //         }
 //     })
-//     // for (let i = 0; i < val.length; i++) {
-//     //     if (val[i].match(exp)) {
-//     //         input += val
-//     //     }
-//     //     else if (val[i] == '.') {
-//     //         val[i - 1] += val[i]
-//     //         val[i - 1] += val[i + 1]
-//     //         i++
-//     //     }
-//     //     else {
-//     //         arr.push(input)
-//     //         arr.push(val[i])
-//     //         input = ''
-//     //     }
-//     // }
 
 //     if (input != '') {
 //         arr.push(input)
